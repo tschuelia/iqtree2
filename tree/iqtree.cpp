@@ -2295,7 +2295,7 @@ double IQTree::doTreeSearch() {
         /*----------------------------------------
          * Perturb the tree
          *---------------------------------------*/
-        doTreePerturbation();
+        // doTreePerturbation();
 
         /*----------------------------------------
          * Optimize tree with NNI
